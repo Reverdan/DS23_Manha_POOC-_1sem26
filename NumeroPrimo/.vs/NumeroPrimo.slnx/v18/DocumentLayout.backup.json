@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\NumeroPrimo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6DB9A503-0CA8-45FB-9C2C-3DDC9933F38D}|NumeroPrimo\\NumeroPrimo.csproj|c:\\users\\rever\\documents\\github\\ds23_manha_pooc-_1sem26\\numeroprimo\\numeroprimo\\modelo\\primo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DB9A503-0CA8-45FB-9C2C-3DDC9933F38D}|NumeroPrimo\\NumeroPrimo.csproj|solutionrelative:numeroprimo\\modelo\\primo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DBF6866C-8431-EB23-C595-E4F5845DD3D4}|NumeroPrimo\\NumeroPrimo.csproj|c:\\users\\rever\\documents\\github\\ds23_manha_pooc-_1sem26\\numeroprimo\\numeroprimo\\modelo\\abspropriedades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF6866C-8431-EB23-C595-E4F5845DD3D4}|NumeroPrimo\\NumeroPrimo.csproj|solutionrelative:numeroprimo\\modelo\\abspropriedades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DB9A503-0CA8-45FB-9C2C-3DDC9933F38D}|NumeroPrimo\\NumeroPrimo.csproj|c:\\users\\rever\\documents\\github\\ds23_manha_pooc-_1sem26\\numeroprimo\\numeroprimo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DB9A503-0CA8-45FB-9C2C-3DDC9933F38D}|NumeroPrimo\\NumeroPrimo.csproj|solutionrelative:numeroprimo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DBF6866C-8431-EB23-C595-E4F5845DD3D4}|NumeroPrimo\\NumeroPrimo.csproj|c:\\users\\rever\\documents\\github\\ds23_manha_pooc-_1sem26\\numeroprimo\\numeroprimo\\modelo\\primo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF6866C-8431-EB23-C595-E4F5845DD3D4}|NumeroPrimo\\NumeroPrimo.csproj|solutionrelative:numeroprimo\\modelo\\primo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DB9A503-0CA8-45FB-9C2C-3DDC9933F38D}|NumeroPrimo\\NumeroPrimo.csproj|c:\\users\\rever\\documents\\github\\ds23_manha_pooc-_1sem26\\numeroprimo\\numeroprimo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{DBF6866C-8431-EB23-C595-E4F5845DD3D4}|NumeroPrimo\\NumeroPrimo.csproj|c:\\users\\rever\\documents\\github\\ds23_manha_pooc-_1sem26\\numeroprimo\\numeroprimo\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF6866C-8431-EB23-C595-E4F5845DD3D4}|NumeroPrimo\\NumeroPrimo.csproj|solutionrelative:numeroprimo\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF6866C-8431-EB23-C595-E4F5845DD3D4}|NumeroPrimo\\NumeroPrimo.csproj|c:\\users\\rever\\documents\\github\\ds23_manha_pooc-_1sem26\\numeroprimo\\numeroprimo\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF6866C-8431-EB23-C595-E4F5845DD3D4}|NumeroPrimo\\NumeroPrimo.csproj|solutionrelative:numeroprimo\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB9A503-0CA8-45FB-9C2C-3DDC9933F38D}|NumeroPrimo\\NumeroPrimo.csproj|C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\NumeroPrimo\\numeroprimo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6DB9A503-0CA8-45FB-9C2C-3DDC9933F38D}|NumeroPrimo\\NumeroPrimo.csproj|solutionrelative:numeroprimo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DB9A503-0CA8-45FB-9C2C-3DDC9933F38D}|NumeroPrimo\\NumeroPrimo.csproj|c:\\users\\rever\\documents\\github\\ds23_manha_pooc-_1sem26\\numeroprimo\\numeroprimo\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DB9A503-0CA8-45FB-9C2C-3DDC9933F38D}|NumeroPrimo\\NumeroPrimo.csproj|solutionrelative:numeroprimo\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DB9A503-0CA8-45FB-9C2C-3DDC9933F38D}|NumeroPrimo\\NumeroPrimo.csproj|c:\\users\\rever\\documents\\github\\ds23_manha_pooc-_1sem26\\numeroprimo\\numeroprimo\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DB9A503-0CA8-45FB-9C2C-3DDC9933F38D}|NumeroPrimo\\NumeroPrimo.csproj|solutionrelative:numeroprimo\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DBF6866C-8431-EB23-C595-E4F5845DD3D4}|NumeroPrimo\\NumeroPrimo.csproj|c:\\users\\rever\\documents\\github\\ds23_manha_pooc-_1sem26\\numeroprimo\\numeroprimo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF6866C-8431-EB23-C595-E4F5845DD3D4}|NumeroPrimo\\NumeroPrimo.csproj|solutionrelative:numeroprimo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "absPropriedades.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\NumeroPrimo\\NumeroPrimo\\modelo\\absPropriedades.cs",
+              "RelativeDocumentMoniker": "NumeroPrimo\\modelo\\absPropriedades.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\NumeroPrimo\\NumeroPrimo\\modelo\\absPropriedades.cs",
+              "RelativeToolTip": "NumeroPrimo\\modelo\\absPropriedades.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T13:35:57.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\NumeroPrimo\\NumeroPrimo\\Form1.cs",
               "RelativeDocumentMoniker": "NumeroPrimo\\Form1.cs",
@@ -47,13 +64,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Primo.cs",
               "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\NumeroPrimo\\NumeroPrimo\\modelo\\Primo.cs",
               "RelativeDocumentMoniker": "NumeroPrimo\\modelo\\Primo.cs",
               "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\NumeroPrimo\\NumeroPrimo\\modelo\\Primo.cs",
               "RelativeToolTip": "NumeroPrimo\\modelo\\Primo.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAmwB0AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-31T12:11:27.051Z",
               "EditorCaption": ""
@@ -66,35 +83,34 @@
               "RelativeDocumentMoniker": "NumeroPrimo\\modelo\\Controle.cs",
               "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\NumeroPrimo\\NumeroPrimo\\modelo\\Controle.cs",
               "RelativeToolTip": "NumeroPrimo\\modelo\\Controle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBwAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-31T12:11:13.441Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Validacao.cs",
               "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\NumeroPrimo\\NumeroPrimo\\modelo\\Validacao.cs",
               "RelativeDocumentMoniker": "NumeroPrimo\\modelo\\Validacao.cs",
               "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\NumeroPrimo\\NumeroPrimo\\modelo\\Validacao.cs",
               "RelativeToolTip": "NumeroPrimo\\modelo\\Validacao.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAowB8AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-31T12:10:13.503Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\NumeroPrimo\\NumeroPrimo\\Form1.cs",
               "RelativeDocumentMoniker": "NumeroPrimo\\Form1.cs",
               "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\NumeroPrimo\\NumeroPrimo\\Form1.cs [Projeto]",
               "RelativeToolTip": "NumeroPrimo\\Form1.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T11:54:48.05Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2026-03-31T11:54:48.05Z"
             }
           ]
         }

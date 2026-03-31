@@ -4,11 +4,8 @@ using System.Text;
 
 namespace NumeroPrimo.modelo
 {
-    public class Primo
+    public class Primo : absPropriedades
     {
-		private String mensagem;
-		private int num;
-
         public Primo(int num)
         {
             this.num = num;
@@ -32,11 +29,6 @@ namespace NumeroPrimo.modelo
                 }
             }
         }
-
-        public String Mensagem
-		{
-			get { return mensagem; }
-		}
 
 	}
 }

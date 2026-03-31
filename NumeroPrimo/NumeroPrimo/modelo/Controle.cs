@@ -4,11 +4,8 @@ using System.Text;
 
 namespace NumeroPrimo.modelo
 {
-    public class Controle
+    public class Controle : absPropriedades
     {
-		private String mensagem;
-		private String numero;
-
         public Controle(string numero)
         {
             this.numero = numero;
@@ -19,21 +16,15 @@ namespace NumeroPrimo.modelo
         {
             this.mensagem = "";
             Validacao validacao = new Validacao(this.numero);
-            if (validacao.Mensagem.Equals(""))
+            if (validacao.mensagem.Equals(""))
             {
-                Primo primo = new Primo(validacao.N1);
-                this.mensagem = primo.Mensagem;
+                Primo primo = new Primo(validacao.num);
+                this.mensagem = primo.mensagem;
             }
             else
             {
-                this.mensagem = validacao.Mensagem;
+                this.mensagem = validacao.mensagem;
             }
         }
-
-        public String Mensagem
-		{
-			get { return mensagem; }
-		}
-
 	}
 }
