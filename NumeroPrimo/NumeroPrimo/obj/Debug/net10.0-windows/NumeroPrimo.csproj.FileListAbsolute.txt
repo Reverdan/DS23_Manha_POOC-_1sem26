@@ -1,0 +1,17 @@
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\NumeroPrimo\NumeroPrimo\bin\Debug\net10.0-windows\NumeroPrimo.exe
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\NumeroPrimo\NumeroPrimo\bin\Debug\net10.0-windows\NumeroPrimo.deps.json
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\NumeroPrimo\NumeroPrimo\bin\Debug\net10.0-windows\NumeroPrimo.runtimeconfig.json
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\NumeroPrimo\NumeroPrimo\bin\Debug\net10.0-windows\NumeroPrimo.dll
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\NumeroPrimo\NumeroPrimo\bin\Debug\net10.0-windows\NumeroPrimo.pdb
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\NumeroPrimo\NumeroPrimo\obj\Debug\net10.0-windows\NumeroPrimo.Form1.resources
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\NumeroPrimo\NumeroPrimo\obj\Debug\net10.0-windows\NumeroPrimo.csproj.GenerateResource.cache
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\NumeroPrimo\NumeroPrimo\obj\Debug\net10.0-windows\NumeroPrimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\NumeroPrimo\NumeroPrimo\obj\Debug\net10.0-windows\NumeroPrimo.AssemblyInfoInputs.cache
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\NumeroPrimo\NumeroPrimo\obj\Debug\net10.0-windows\NumeroPrimo.AssemblyInfo.cs
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\NumeroPrimo\NumeroPrimo\obj\Debug\net10.0-windows\NumeroPrimo.csproj.CoreCompileInputs.cache
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\NumeroPrimo\NumeroPrimo\obj\Debug\net10.0-windows\NumeroPrimo.sourcelink.json
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\NumeroPrimo\NumeroPrimo\obj\Debug\net10.0-windows\NumeroPrimo.dll
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\NumeroPrimo\NumeroPrimo\obj\Debug\net10.0-windows\refint\NumeroPrimo.dll
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\NumeroPrimo\NumeroPrimo\obj\Debug\net10.0-windows\NumeroPrimo.pdb
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\NumeroPrimo\NumeroPrimo\obj\Debug\net10.0-windows\NumeroPrimo.genruntimeconfig.cache
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\NumeroPrimo\NumeroPrimo\obj\Debug\net10.0-windows\ref\NumeroPrimo.dll
