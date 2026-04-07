@@ -6,24 +6,22 @@ namespace NumeroPrimo.modelo
 {
     public class Validacao : absPropriedades
     {
-		
-
         public Validacao(string numero)
         {
-            this.numero = numero;
+            this.Numero = numero;
 			this.Validar();
         }
 
 		private void Validar()
 		{
-			this.mensagem = "";
+			this.Mensagem = "";
 			try
 			{
-				this.num = Convert.ToInt32(this.numero);
+				this.Num = Convert.ToInt32(this.Numero);
 			}
 			catch (Exception e)
 			{
-				this.mensagem = "Conversão inválida";
+				this.Mensagem = "Conversão inválida";
 			}
 		}
 	}

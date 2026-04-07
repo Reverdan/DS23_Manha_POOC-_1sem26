@@ -2,17 +2,15 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace NumeroPrimo.modelo
+namespace PrimoHeranca.modelo
 {
     public class Primo : absPropriedades
     {
-        public Primo(int num)
+        public Primo(int num) : base(num)
         {
-            this.Num = num;
-            this.Verificar();
         }
 
-        private void Verificar()
+        protected override void Executar()
         {
             this.Mensagem = "É primo";
             for (int i = 2; i < Num / 2 + 1; i++)
@@ -29,6 +27,5 @@ namespace NumeroPrimo.modelo
                 }
             }
         }
-
-	}
+    }
 }

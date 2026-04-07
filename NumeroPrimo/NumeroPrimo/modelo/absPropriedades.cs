@@ -4,10 +4,30 @@ using System.Text;
 
 namespace NumeroPrimo.modelo
 {
-    public class absPropriedades
+    public abstract class absPropriedades
     {
-        public String mensagem;
-        public int num;
-        public String numero;
+        private String mensagem;
+        public String Mensagem
+        {
+            get { return mensagem; }
+            set { mensagem = value; }
+        }
+
+        private String numero;
+        public String Numero
+        {
+            get { return numero; }
+            set { numero = value; }
+        }
+
+
+        private int num;
+        public int Num
+        {
+            get { return num; }
+            set { num = value; }
+        }
+
+
     }
 }

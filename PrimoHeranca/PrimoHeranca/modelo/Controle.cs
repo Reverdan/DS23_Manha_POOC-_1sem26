@@ -2,17 +2,15 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace NumeroPrimo.modelo
+namespace PrimoHeranca.modelo
 {
-    public sealed class Controle : absPropriedades
+    public class Controle : absPropriedades
     {
-        public Controle(string numero)
+        public Controle(string numero) : base(numero)
         {
-            this.Numero = numero;
-            this.Executar();
         }
 
-        private void Executar()
+        protected override void Executar()
         {
             this.Mensagem = "";
             Validacao validacao = new Validacao(this.Numero);
@@ -25,7 +23,6 @@ namespace NumeroPrimo.modelo
             {
                 this.Mensagem = validacao.Mensagem;
             }
-
         }
-	}
+    }
 }

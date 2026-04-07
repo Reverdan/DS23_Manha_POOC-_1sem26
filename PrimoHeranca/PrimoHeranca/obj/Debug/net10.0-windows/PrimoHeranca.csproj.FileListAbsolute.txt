@@ -1,0 +1,17 @@
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\PrimoHeranca\PrimoHeranca\bin\Debug\net10.0-windows\PrimoHeranca.exe
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\PrimoHeranca\PrimoHeranca\bin\Debug\net10.0-windows\PrimoHeranca.deps.json
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\PrimoHeranca\PrimoHeranca\bin\Debug\net10.0-windows\PrimoHeranca.runtimeconfig.json
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\PrimoHeranca\PrimoHeranca\bin\Debug\net10.0-windows\PrimoHeranca.dll
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\PrimoHeranca\PrimoHeranca\bin\Debug\net10.0-windows\PrimoHeranca.pdb
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\PrimoHeranca\PrimoHeranca\obj\Debug\net10.0-windows\PrimoHeranca.Form1.resources
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\PrimoHeranca\PrimoHeranca\obj\Debug\net10.0-windows\PrimoHeranca.csproj.GenerateResource.cache
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\PrimoHeranca\PrimoHeranca\obj\Debug\net10.0-windows\PrimoHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\PrimoHeranca\PrimoHeranca\obj\Debug\net10.0-windows\PrimoHeranca.AssemblyInfoInputs.cache
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\PrimoHeranca\PrimoHeranca\obj\Debug\net10.0-windows\PrimoHeranca.AssemblyInfo.cs
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\PrimoHeranca\PrimoHeranca\obj\Debug\net10.0-windows\PrimoHeranca.csproj.CoreCompileInputs.cache
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\PrimoHeranca\PrimoHeranca\obj\Debug\net10.0-windows\PrimoHeranca.sourcelink.json
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\PrimoHeranca\PrimoHeranca\obj\Debug\net10.0-windows\PrimoHeranca.dll
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\PrimoHeranca\PrimoHeranca\obj\Debug\net10.0-windows\refint\PrimoHeranca.dll
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\PrimoHeranca\PrimoHeranca\obj\Debug\net10.0-windows\PrimoHeranca.pdb
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\PrimoHeranca\PrimoHeranca\obj\Debug\net10.0-windows\PrimoHeranca.genruntimeconfig.cache
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\PrimoHeranca\PrimoHeranca\obj\Debug\net10.0-windows\ref\PrimoHeranca.dll
