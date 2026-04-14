@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\PrimoHeranca\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D68F353-9A9D-4F52-8D16-CB23B356A59F}|PrimoHeranca\\PrimoHeranca.csproj|c:\\users\\rever\\documents\\github\\ds23_manha_pooc-_1sem26\\primoheranca\\primoheranca\\modelo\\primo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D68F353-9A9D-4F52-8D16-CB23B356A59F}|PrimoHeranca\\PrimoHeranca.csproj|solutionrelative:primoheranca\\modelo\\primo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1CE7F4FE-56AB-4130-72F1-04DD6C586895}|PrimoHeranca\\PrimoHeranca.csproj|c:\\users\\rever\\documents\\github\\ds23_manha_pooc-_1sem26\\primoheranca\\primoheranca\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{1CE7F4FE-56AB-4130-72F1-04DD6C586895}|PrimoHeranca\\PrimoHeranca.csproj|solutionrelative:primoheranca\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D68F353-9A9D-4F52-8D16-CB23B356A59F}|PrimoHeranca\\PrimoHeranca.csproj|c:\\users\\rever\\documents\\github\\ds23_manha_pooc-_1sem26\\primoheranca\\primoheranca\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D68F353-9A9D-4F52-8D16-CB23B356A59F}|PrimoHeranca\\PrimoHeranca.csproj|solutionrelative:primoheranca\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1CE7F4FE-56AB-4130-72F1-04DD6C586895}|PrimoHeranca\\PrimoHeranca.csproj|c:\\users\\rever\\documents\\github\\ds23_manha_pooc-_1sem26\\primoheranca\\primoheranca\\modelo\\abspropriedades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE7F4FE-56AB-4130-72F1-04DD6C586895}|PrimoHeranca\\PrimoHeranca.csproj|solutionrelative:primoheranca\\modelo\\abspropriedades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D68F353-9A9D-4F52-8D16-CB23B356A59F}|PrimoHeranca\\PrimoHeranca.csproj|c:\\users\\rever\\documents\\github\\ds23_manha_pooc-_1sem26\\primoheranca\\primoheranca\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D68F353-9A9D-4F52-8D16-CB23B356A59F}|PrimoHeranca\\PrimoHeranca.csproj|solutionrelative:primoheranca\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1CE7F4FE-56AB-4130-72F1-04DD6C586895}|PrimoHeranca\\PrimoHeranca.csproj|c:\\users\\rever\\documents\\github\\ds23_manha_pooc-_1sem26\\primoheranca\\primoheranca\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE7F4FE-56AB-4130-72F1-04DD6C586895}|PrimoHeranca\\PrimoHeranca.csproj|solutionrelative:primoheranca\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D68F353-9A9D-4F52-8D16-CB23B356A59F}|PrimoHeranca\\PrimoHeranca.csproj|c:\\users\\rever\\documents\\github\\ds23_manha_pooc-_1sem26\\primoheranca\\primoheranca\\modelo\\abspropriedades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D68F353-9A9D-4F52-8D16-CB23B356A59F}|PrimoHeranca\\PrimoHeranca.csproj|solutionrelative:primoheranca\\modelo\\abspropriedades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1CE7F4FE-56AB-4130-72F1-04DD6C586895}|PrimoHeranca\\PrimoHeranca.csproj|c:\\users\\rever\\documents\\github\\ds23_manha_pooc-_1sem26\\primoheranca\\primoheranca\\modelo\\primo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE7F4FE-56AB-4130-72F1-04DD6C586895}|PrimoHeranca\\PrimoHeranca.csproj|solutionrelative:primoheranca\\modelo\\primo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE7F4FE-56AB-4130-72F1-04DD6C586895}|PrimoHeranca\\PrimoHeranca.csproj|c:\\users\\rever\\documents\\github\\ds23_manha_pooc-_1sem26\\primoheranca\\primoheranca\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE7F4FE-56AB-4130-72F1-04DD6C586895}|PrimoHeranca\\PrimoHeranca.csproj|solutionrelative:primoheranca\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +30,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\PrimoHeranca\\PrimoHeranca\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "PrimoHeranca\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\PrimoHeranca\\PrimoHeranca\\ClassDiagram1.cd",
+              "RelativeToolTip": "PrimoHeranca\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2026-04-07T13:41:36.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Validacao.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\PrimoHeranca\\PrimoHeranca\\modelo\\Validacao.cs",
+              "RelativeDocumentMoniker": "PrimoHeranca\\modelo\\Validacao.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\PrimoHeranca\\PrimoHeranca\\modelo\\Validacao.cs",
+              "RelativeToolTip": "PrimoHeranca\\modelo\\Validacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T12:51:44.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Primo.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\PrimoHeranca\\PrimoHeranca\\modelo\\Primo.cs",
+              "RelativeDocumentMoniker": "PrimoHeranca\\modelo\\Primo.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\PrimoHeranca\\PrimoHeranca\\modelo\\Primo.cs",
+              "RelativeToolTip": "PrimoHeranca\\modelo\\Primo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T12:42:27.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "absPropriedades.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\PrimoHeranca\\PrimoHeranca\\modelo\\absPropriedades.cs",
+              "RelativeDocumentMoniker": "PrimoHeranca\\modelo\\absPropriedades.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\PrimoHeranca\\PrimoHeranca\\modelo\\absPropriedades.cs",
+              "RelativeToolTip": "PrimoHeranca\\modelo\\absPropriedades.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T12:34:27.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Controle.cs",
               "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\PrimoHeranca\\PrimoHeranca\\modelo\\Controle.cs",
               "RelativeDocumentMoniker": "PrimoHeranca\\modelo\\Controle.cs",
@@ -39,45 +94,6 @@
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-07T12:54:31.774Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Validacao.cs",
-              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\PrimoHeranca\\PrimoHeranca\\modelo\\Validacao.cs",
-              "RelativeDocumentMoniker": "PrimoHeranca\\modelo\\Validacao.cs",
-              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\PrimoHeranca\\PrimoHeranca\\modelo\\Validacao.cs",
-              "RelativeToolTip": "PrimoHeranca\\modelo\\Validacao.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBQAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T12:51:44.797Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Primo.cs",
-              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\PrimoHeranca\\PrimoHeranca\\modelo\\Primo.cs",
-              "RelativeDocumentMoniker": "PrimoHeranca\\modelo\\Primo.cs",
-              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\PrimoHeranca\\PrimoHeranca\\modelo\\Primo.cs",
-              "RelativeToolTip": "PrimoHeranca\\modelo\\Primo.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA5wBkAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T12:42:27.833Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "absPropriedades.cs",
-              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\PrimoHeranca\\PrimoHeranca\\modelo\\absPropriedades.cs",
-              "RelativeDocumentMoniker": "PrimoHeranca\\modelo\\absPropriedades.cs",
-              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\PrimoHeranca\\PrimoHeranca\\modelo\\absPropriedades.cs",
-              "RelativeToolTip": "PrimoHeranca\\modelo\\absPropriedades.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T12:34:27.689Z",
               "EditorCaption": ""
             }
           ]

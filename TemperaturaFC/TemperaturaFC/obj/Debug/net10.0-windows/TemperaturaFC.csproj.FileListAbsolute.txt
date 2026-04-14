@@ -1,0 +1,17 @@
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\TemperaturaFC\TemperaturaFC\bin\Debug\net10.0-windows\TemperaturaFC.exe
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\TemperaturaFC\TemperaturaFC\bin\Debug\net10.0-windows\TemperaturaFC.deps.json
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\TemperaturaFC\TemperaturaFC\bin\Debug\net10.0-windows\TemperaturaFC.runtimeconfig.json
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\TemperaturaFC\TemperaturaFC\bin\Debug\net10.0-windows\TemperaturaFC.dll
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\TemperaturaFC\TemperaturaFC\bin\Debug\net10.0-windows\TemperaturaFC.pdb
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\TemperaturaFC\TemperaturaFC\obj\Debug\net10.0-windows\TemperaturaFC.Form1.resources
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\TemperaturaFC\TemperaturaFC\obj\Debug\net10.0-windows\TemperaturaFC.csproj.GenerateResource.cache
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\TemperaturaFC\TemperaturaFC\obj\Debug\net10.0-windows\TemperaturaFC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\TemperaturaFC\TemperaturaFC\obj\Debug\net10.0-windows\TemperaturaFC.AssemblyInfoInputs.cache
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\TemperaturaFC\TemperaturaFC\obj\Debug\net10.0-windows\TemperaturaFC.AssemblyInfo.cs
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\TemperaturaFC\TemperaturaFC\obj\Debug\net10.0-windows\TemperaturaFC.csproj.CoreCompileInputs.cache
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\TemperaturaFC\TemperaturaFC\obj\Debug\net10.0-windows\TemperaturaFC.sourcelink.json
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\TemperaturaFC\TemperaturaFC\obj\Debug\net10.0-windows\TemperaturaFC.dll
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\TemperaturaFC\TemperaturaFC\obj\Debug\net10.0-windows\refint\TemperaturaFC.dll
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\TemperaturaFC\TemperaturaFC\obj\Debug\net10.0-windows\TemperaturaFC.pdb
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\TemperaturaFC\TemperaturaFC\obj\Debug\net10.0-windows\TemperaturaFC.genruntimeconfig.cache
+C:\Users\Rever\Documents\GitHub\DS23_Manha_POOC-_1sem26\TemperaturaFC\TemperaturaFC\obj\Debug\net10.0-windows\ref\TemperaturaFC.dll
