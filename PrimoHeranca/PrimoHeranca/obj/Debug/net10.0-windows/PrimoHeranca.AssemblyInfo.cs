@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrimoHeranca")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b48a0bddf7f460033e001232366f1c157ecab9d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b73dce9154413095436f5857ceb420c54d4d3e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrimoHeranca")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrimoHeranca")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

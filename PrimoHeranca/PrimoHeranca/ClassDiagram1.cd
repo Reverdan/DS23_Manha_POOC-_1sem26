@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="PrimoHeranca.modelo.absPropriedades">
+    <Position X="3.75" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAACAAAAAAAAAUAAAABAAAAAAAAAAAAAEAAAABAAA=</HashCode>
+      <FileName>modelo\absPropriedades.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrimoHeranca.modelo.Controle">
+    <Position X="4.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>modelo\Controle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrimoHeranca.modelo.Primo">
+    <Position X="0.5" Y="2" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>modelo\Primo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrimoHeranca.modelo.Validacao">
+    <Position X="7" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>modelo\Validacao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrimoHeranca.Form1">
+    <Position X="3.75" Y="7" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAEAAAAACAgAACAABAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
