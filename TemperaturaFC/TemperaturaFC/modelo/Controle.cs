@@ -13,16 +13,27 @@ namespace TemperaturaFC.modelo
         public override void Executar()
         {
             this.mensagem = "";
-            Validacao validacao = new Validacao(this.temp);
+            //Validacao validacao = new Validacao(this.temp);
+
+            absPropriedades validacao = new Validacao(this.temp);
+
             if (validacao.Mensagem.Equals(""))
             {
-                Conversao conversao = new Conversao(this.tipo, validacao.Temperatura);
-                this.resposta = conversao.Resposta;
+                //Conversao conversao = new Conversao(this.tipo, validacao.Temperatura);
+
+                absPropriedades conversao = new Conversao(this.tipo, validacao.Temperatura);
+                
+                this.resposta = conversao.ToString();
             }
             else
             {
-                this.mensagem = validacao.Mensagem;
+                this.mensagem = validacao.ToString();
             }
+        }
+
+        public override string? ToString()
+        {
+            return resposta;
         }
     }
 }

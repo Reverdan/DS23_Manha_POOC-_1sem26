@@ -15,10 +15,10 @@ namespace TemperaturaFC.modelo
 
         protected String resposta;
 
-        public String Resposta
-        {
-            get { return resposta; }
-        }
+        //public String Resposta
+        //{
+        //    get { return resposta; }
+        //}
 
         protected String temp;
         protected Double temperatura;

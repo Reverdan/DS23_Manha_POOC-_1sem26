@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\TemperaturaFC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{89CB5954-B674-4B1D-AFB0-E5C1B9FF65F5}|TemperaturaFC\\TemperaturaFC.csproj|c:\\users\\rever\\documents\\github\\ds23_manha_pooc-_1sem26\\temperaturafc\\temperaturafc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89CB5954-B674-4B1D-AFB0-E5C1B9FF65F5}|TemperaturaFC\\TemperaturaFC.csproj|solutionrelative:temperaturafc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1F5C6E3-933D-F26B-9444-B2494B19E253}|TemperaturaFC\\TemperaturaFC.csproj|c:\\users\\rever\\documents\\github\\ds23_manha_pooc-_1sem26\\temperaturafc\\temperaturafc\\modelo\\abspropriedades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F5C6E3-933D-F26B-9444-B2494B19E253}|TemperaturaFC\\TemperaturaFC.csproj|solutionrelative:temperaturafc\\modelo\\abspropriedades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89CB5954-B674-4B1D-AFB0-E5C1B9FF65F5}|TemperaturaFC\\TemperaturaFC.csproj|c:\\users\\rever\\documents\\github\\ds23_manha_pooc-_1sem26\\temperaturafc\\temperaturafc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A1F5C6E3-933D-F26B-9444-B2494B19E253}|TemperaturaFC\\TemperaturaFC.csproj|c:\\users\\rever\\documents\\github\\ds23_manha_pooc-_1sem26\\temperaturafc\\temperaturafc\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F5C6E3-933D-F26B-9444-B2494B19E253}|TemperaturaFC\\TemperaturaFC.csproj|solutionrelative:temperaturafc\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F5C6E3-933D-F26B-9444-B2494B19E253}|TemperaturaFC\\TemperaturaFC.csproj|c:\\users\\rever\\documents\\github\\ds23_manha_pooc-_1sem26\\temperaturafc\\temperaturafc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1F5C6E3-933D-F26B-9444-B2494B19E253}|TemperaturaFC\\TemperaturaFC.csproj|solutionrelative:temperaturafc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89CB5954-B674-4B1D-AFB0-E5C1B9FF65F5}|TemperaturaFC\\TemperaturaFC.csproj|C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\TemperaturaFC\\temperaturafc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{89CB5954-B674-4B1D-AFB0-E5C1B9FF65F5}|TemperaturaFC\\TemperaturaFC.csproj|solutionrelative:temperaturafc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89CB5954-B674-4B1D-AFB0-E5C1B9FF65F5}|TemperaturaFC\\TemperaturaFC.csproj|c:\\users\\rever\\documents\\github\\ds23_manha_pooc-_1sem26\\temperaturafc\\temperaturafc\\modelo\\abspropriedades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89CB5954-B674-4B1D-AFB0-E5C1B9FF65F5}|TemperaturaFC\\TemperaturaFC.csproj|solutionrelative:temperaturafc\\modelo\\abspropriedades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1F5C6E3-933D-F26B-9444-B2494B19E253}|TemperaturaFC\\TemperaturaFC.csproj|c:\\users\\rever\\documents\\github\\ds23_manha_pooc-_1sem26\\temperaturafc\\temperaturafc\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F5C6E3-933D-F26B-9444-B2494B19E253}|TemperaturaFC\\TemperaturaFC.csproj|solutionrelative:temperaturafc\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89CB5954-B674-4B1D-AFB0-E5C1B9FF65F5}|TemperaturaFC\\TemperaturaFC.csproj|c:\\users\\rever\\documents\\github\\ds23_manha_pooc-_1sem26\\temperaturafc\\temperaturafc\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89CB5954-B674-4B1D-AFB0-E5C1B9FF65F5}|TemperaturaFC\\TemperaturaFC.csproj|solutionrelative:temperaturafc\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1F5C6E3-933D-F26B-9444-B2494B19E253}|TemperaturaFC\\TemperaturaFC.csproj|c:\\users\\rever\\documents\\github\\ds23_manha_pooc-_1sem26\\temperaturafc\\temperaturafc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F5C6E3-933D-F26B-9444-B2494B19E253}|TemperaturaFC\\TemperaturaFC.csproj|solutionrelative:temperaturafc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89CB5954-B674-4B1D-AFB0-E5C1B9FF65F5}|TemperaturaFC\\TemperaturaFC.csproj|c:\\users\\rever\\documents\\github\\ds23_manha_pooc-_1sem26\\temperaturafc\\temperaturafc\\modelo\\conversao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89CB5954-B674-4B1D-AFB0-E5C1B9FF65F5}|TemperaturaFC\\TemperaturaFC.csproj|solutionrelative:temperaturafc\\modelo\\conversao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1F5C6E3-933D-F26B-9444-B2494B19E253}|TemperaturaFC\\TemperaturaFC.csproj|c:\\users\\rever\\documents\\github\\ds23_manha_pooc-_1sem26\\temperaturafc\\temperaturafc\\modelo\\conversao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F5C6E3-933D-F26B-9444-B2494B19E253}|TemperaturaFC\\TemperaturaFC.csproj|solutionrelative:temperaturafc\\modelo\\conversao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89CB5954-B674-4B1D-AFB0-E5C1B9FF65F5}|TemperaturaFC\\TemperaturaFC.csproj|c:\\users\\rever\\documents\\github\\ds23_manha_pooc-_1sem26\\temperaturafc\\temperaturafc\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89CB5954-B674-4B1D-AFB0-E5C1B9FF65F5}|TemperaturaFC\\TemperaturaFC.csproj|solutionrelative:temperaturafc\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89CB5954-B674-4B1D-AFB0-E5C1B9FF65F5}|TemperaturaFC\\TemperaturaFC.csproj|c:\\users\\rever\\documents\\github\\ds23_manha_pooc-_1sem26\\temperaturafc\\temperaturafc\\modelo\\intmetodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89CB5954-B674-4B1D-AFB0-E5C1B9FF65F5}|TemperaturaFC\\TemperaturaFC.csproj|solutionrelative:temperaturafc\\modelo\\intmetodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1F5C6E3-933D-F26B-9444-B2494B19E253}|TemperaturaFC\\TemperaturaFC.csproj|c:\\users\\rever\\documents\\github\\ds23_manha_pooc-_1sem26\\temperaturafc\\temperaturafc\\modelo\\intmetodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F5C6E3-933D-F26B-9444-B2494B19E253}|TemperaturaFC\\TemperaturaFC.csproj|solutionrelative:temperaturafc\\modelo\\intmetodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,88 +42,99 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\TemperaturaFC\\TemperaturaFC\\Form1.cs",
               "RelativeDocumentMoniker": "TemperaturaFC\\Form1.cs",
               "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\TemperaturaFC\\TemperaturaFC\\Form1.cs",
               "RelativeToolTip": "TemperaturaFC\\Form1.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-14T13:01:59.511Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "absPropriedades.cs",
-              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\TemperaturaFC\\TemperaturaFC\\modelo\\absPropriedades.cs",
-              "RelativeDocumentMoniker": "TemperaturaFC\\modelo\\absPropriedades.cs",
-              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\TemperaturaFC\\TemperaturaFC\\modelo\\absPropriedades.cs",
-              "RelativeToolTip": "TemperaturaFC\\modelo\\absPropriedades.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T12:16:33.228Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Validacao.cs",
-              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\TemperaturaFC\\TemperaturaFC\\modelo\\Validacao.cs",
-              "RelativeDocumentMoniker": "TemperaturaFC\\modelo\\Validacao.cs",
-              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\TemperaturaFC\\TemperaturaFC\\modelo\\Validacao.cs",
-              "RelativeToolTip": "TemperaturaFC\\modelo\\Validacao.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T12:16:06.287Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Controle.cs",
               "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\TemperaturaFC\\TemperaturaFC\\modelo\\Controle.cs",
               "RelativeDocumentMoniker": "TemperaturaFC\\modelo\\Controle.cs",
               "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\TemperaturaFC\\TemperaturaFC\\modelo\\Controle.cs",
               "RelativeToolTip": "TemperaturaFC\\modelo\\Controle.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-14T12:15:54.183Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Conversao.cs",
-              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\TemperaturaFC\\TemperaturaFC\\modelo\\Conversao.cs",
-              "RelativeDocumentMoniker": "TemperaturaFC\\modelo\\Conversao.cs",
-              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\TemperaturaFC\\TemperaturaFC\\modelo\\Conversao.cs",
-              "RelativeToolTip": "TemperaturaFC\\modelo\\Conversao.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T12:15:45.242Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\TemperaturaFC\\TemperaturaFC\\Form1.cs",
               "RelativeDocumentMoniker": "TemperaturaFC\\Form1.cs",
               "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\TemperaturaFC\\TemperaturaFC\\Form1.cs [Projeto]",
               "RelativeToolTip": "TemperaturaFC\\Form1.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T11:55:13.513Z",
+              "WhenOpened": "2026-04-14T11:55:13.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Validacao.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\TemperaturaFC\\TemperaturaFC\\modelo\\Validacao.cs",
+              "RelativeDocumentMoniker": "TemperaturaFC\\modelo\\Validacao.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\TemperaturaFC\\TemperaturaFC\\modelo\\Validacao.cs",
+              "RelativeToolTip": "TemperaturaFC\\modelo\\Validacao.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T12:16:06.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "absPropriedades.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\TemperaturaFC\\TemperaturaFC\\modelo\\absPropriedades.cs",
+              "RelativeDocumentMoniker": "TemperaturaFC\\modelo\\absPropriedades.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\TemperaturaFC\\TemperaturaFC\\modelo\\absPropriedades.cs",
+              "RelativeToolTip": "TemperaturaFC\\modelo\\absPropriedades.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T12:16:33.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\TemperaturaFC\\TemperaturaFC\\Form1.cs",
+              "RelativeDocumentMoniker": "TemperaturaFC\\Form1.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\TemperaturaFC\\TemperaturaFC\\Form1.cs [Projeto]",
+              "RelativeToolTip": "TemperaturaFC\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T12:00:43.226Z",
               "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Conversao.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\TemperaturaFC\\TemperaturaFC\\modelo\\Conversao.cs",
+              "RelativeDocumentMoniker": "TemperaturaFC\\modelo\\Conversao.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\TemperaturaFC\\TemperaturaFC\\modelo\\Conversao.cs",
+              "RelativeToolTip": "TemperaturaFC\\modelo\\Conversao.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T12:15:45.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "intMetodos.cs",
               "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\DS23_Manha_POOC-_1sem26\\TemperaturaFC\\TemperaturaFC\\modelo\\intMetodos.cs",
               "RelativeDocumentMoniker": "TemperaturaFC\\modelo\\intMetodos.cs",
@@ -127,8 +142,7 @@
               "RelativeToolTip": "TemperaturaFC\\modelo\\intMetodos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T12:16:54.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T12:16:54.638Z"
             }
           ]
         }

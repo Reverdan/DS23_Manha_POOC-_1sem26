@@ -15,12 +15,12 @@ namespace TemperaturaFC
             if (rdbCF.Checked)
             {
                 controle = new Controle("CF", txbTemperatura.Text.Replace(".", ","));
-                lblResultado.Text = controle.Resposta;
+                lblResultado.Text = controle.ToString();
             }
             else
             {
                 controle = new Controle("FC", txbTemperatura.Text.Replace(".", ","));
-                lblResultado.Text = controle.Resposta;
+                lblResultado.Text = controle.ToString();
             }
         }
     }

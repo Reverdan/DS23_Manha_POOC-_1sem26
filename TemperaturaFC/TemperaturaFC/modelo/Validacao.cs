@@ -22,5 +22,10 @@ namespace TemperaturaFC.modelo
                 this.mensagem = "Digite valores válidos";
             }
         }
+
+        public override string ToString()
+        {
+            return mensagem;
+        }
     }
 }
