@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Multiplos.Modelo;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -13,6 +14,13 @@ namespace Multiplos.apresentacao
         public frmFatorial()
         {
             InitializeComponent();
+        }
+
+        private void btnCalcular_Click(object sender, EventArgs e)
+        {
+            Controle controle = new Controle();
+            controle.CalcularFatorial(txbFatorial.Text);
+            lblResposta.Text = controle.ToString();
         }
     }
 }
