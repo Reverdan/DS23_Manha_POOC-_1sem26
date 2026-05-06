@@ -29,6 +29,12 @@ namespace Multiplos.Modelo
                 this.lado1 = Convert.ToDouble(numero1);
                 this.lado2 = Convert.ToDouble(numero2);
                 this.lado3 = Convert.ToDouble(numero3);
+                if (!(lado1 + lado2 > lado3 &&
+                    lado2 + lado3 > lado1 &&
+                    lado1 + lado3 > lado2))
+                {
+                    this.mensagem = "Não é triângulo";
+                }
             }
             catch (Exception e)
             {

@@ -65,6 +65,20 @@ namespace Multiplos.Modelo
             return this.mensagem;
         }
 
+        public Double Lado1
+        {
+            get { return lado1; }
+        }
+        public Double Lado2
+        {
+            get { return lado2; }
+        }
+        public Double Lado3     
+        {
+            get { return lado3; }
+        }
+
+
         public abstract void Executar();
     }
 }

@@ -16,6 +16,9 @@ Este repositório contém projetos didáticos de Programação Orientada a Objet
 - [TemperaturaFC.md](TemperaturaFC.md):
 	- **Resumo:** Conversor de temperaturas Fahrenheit/Celsius em C# .NET 10, com polimorfismo de métodos e objetos, aplicação dos princípios SOLID, Template Method, Facade e camadas.
 
+- [Multiplos.md](Multiplos.md):
+- **Resumo:** Aplicação Windows Forms com múltiplos formulários para primo, fatorial e triângulos, com foco em navegação entre telas, reaproveitamento da camada de modelo e diferenças entre formulários modais (`ShowDialog`) e não modais (`Show`).
+
 ---
 
 Cada documento detalha a arquitetura, princípios de orientação a objetos, padrões de projeto e exemplos práticos do respectivo projeto.
