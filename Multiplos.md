@@ -30,41 +30,66 @@ Multiplos/
 
 ---
 
-## 🖥️ Trabalho com Múltiplos Formulários
+## 🏛️ Gestão de Múltiplos Formulários: Perspectivas Teóricas e Práticas
 
-A aplicação utiliza o conceito de **formulários modais** para garantir que o usuário interaja com uma funcionalidade por vez.
+A arquitetura de aplicações multi-janelas em C# (Windows Forms) fundamenta-se na distinção entre duas modas de interação: **Modal** e **Modeless** (Não Modal). Essa escolha impacta diretamente o fluxo de controle da aplicação e a experiência do usuário (UX).
 
-### 1. Chamada de Formulários (`ShowDialog`)
-Para abrir uma nova janela a partir do menu principal, o projeto utiliza o método `.ShowDialog()`. Este método abre o formulário de forma modal, o que significa que o usuário não pode interagir com a janela principal até que a janela aberta seja fechada.
+### 1. Taxonomia de Interfaces: Modal vs. Modeless
 
-**Exemplo de código no Menu Principal:**
-```csharp
-private void tsmPrimo_Click(object sender, EventArgs e)
-{
-    frmPrimo frmP = new frmPrimo(); // Instancia o formulário
-    frmP.ShowDialog();               // Abre como janela modal
-}
-```
+#### A. O Método `Show()` (Interface Modeless)
+A chamada ao método `.Show()` instancia o formulário em modo **não-bloqueante**. Academicamente, isso significa que o encadeamento de execução (thread) do formulário chamador não é interrompido.
+- **Concorrência de Interface**: O usuário pode alternar o foco entre o formulário principal e o secundário livremente.
+- **Assincronismo Procedural**: O código subsequente à chamada `.Show()` é executado imediatamente, sem aguardar o fechamento da nova janela.
+- **Ciclo de Vida**: O gerenciamento de memória e o descarte (`Dispose`) do formulário são geralmente delegados ao próprio objeto ao ser encerrado.
 
-### 2. Controle de Visibilidade
-Em algumas situações, como na abertura da tela de números primos, o projeto demonstra o controle de visibilidade da janela pai para limpar a área de trabalho do usuário:
-
-```csharp
-private void tsmPrimo_Click(object sender, EventArgs e)
-{
-    frmPrimo frmP = new frmPrimo();
-    this.Visible = false;     // Esconde o menu principal
-    frmP.ShowDialog();        // Exibe a tela de primos
-    this.Visible = true;      // Mostra o menu principal novamente ao fechar
-}
-```
-
-### 3. Organização via MenuStrip
-A navegação é facilitada pelo uso do componente **MenuStrip**, que cria uma barra de menus profissional no topo da aplicação, permitindo acesso rápido a todas as funções sem poluir a interface.
+#### B. O Método `ShowDialog()` (Interface Modal)
+O método `.ShowDialog()` implementa uma interface **modal**, estabelecendo um estado de interrupção no fluxo de trabalho da janela ancestral.
+- **Natureza Bloqueante**: A execução do código no formulário chamador é suspensa na linha da chamada até que o formulário modal seja fechado ou escondido.
+- **Hierarquia e Foco**: A janela modal retém a exclusividade da interação do usuário. É impossível interagir com o "Parent Form" enquanto o "Child Form" estiver ativo.
+- **Comunicação via `DialogResult`**: Diferente do modo não-modal, o `ShowDialog` retorna um enumerador (`DialogResult.OK`, `DialogResult.Cancel`), permitindo que o formulário chamador tome decisões baseadas na ação do usuário na janela secundária.
 
 ---
 
-## ⚙️ Conceitos de POO Aplicados
+### 2. Análise Técnica de Implementação
+
+No contexto deste projeto, optou-se predominantemente pelo uso de **Interfaces Modais** para garantir a linearidade dos cálculos e evitar estados de inconsistência onde múltiplos cálculos concorrentes poderiam confundir o usuário.
+
+**Exemplo de Implementação com Controle de Visibilidade:**
+
+```csharp
+private void tsmPrimo_Click(object sender, EventArgs e)
+{
+    // Instanciação: Alocação de memória para o novo objeto de interface
+    frmPrimo frmP = new frmPrimo(); 
+    
+    // Ocultação do Contexto Ancestral: Melhora a carga cognitiva do usuário
+    this.Visible = false;     
+    
+    // Chamada Modal: O fluxo de execução para aqui até que frmP seja encerrado
+    frmP.ShowDialog();        
+    
+    // Retorno de Fluxo: Após o fechamento de frmP, a execução retoma
+    this.Visible = true;      
+}
+```
+
+### 3. Considerações sobre Gestão de Recursos
+
+Em aplicações de alta complexidade, o uso de `ShowDialog()` impõe uma responsabilidade adicional ao desenvolvedor: o **Descarte Explícito**. Enquanto formulários `Show()` limpam seus recursos automaticamente, formulários exibidos via `ShowDialog()` permanecem na memória mesmo após fechados, permitindo que o desenvolvedor acesse propriedades e resultados do formulário encerrado. Recomenda-se o uso do padrão `using` para garantir a liberação de memória (Garbage Collection):
+
+```csharp
+using (frmFatorial frmF = new frmFatorial())
+{
+    if (frmF.ShowDialog() == DialogResult.OK)
+    {
+        // Processar resultados
+    }
+} // frmF é descartado automaticamente aqui
+```
+
+---
+
+## ⚙️ Paradigmas de Orientação a Objetos Aplicados
 
 Mesmo com múltiplos formulários, o projeto mantém o rigor técnico da Orientação a Objetos:
 
