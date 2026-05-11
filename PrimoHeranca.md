@@ -1,12 +1,12 @@
-# 🧬 PrimoHeranca - Projeto Windows Forms (.NET 10)
+﻿# ðŸ§¬ PrimoHeranca - Projeto Windows Forms (.NET 10)
 
-## 📋 Descrição Detalhada do Projeto
+## ðŸ“‹ Descrição Detalhada do Projeto
 
 O projeto **PrimoHeranca** é uma evolução do projeto de verificação de números primos, desenvolvido em **C# .NET 10** com Windows Forms, focado em demonstrar de forma prática e aprofundada os principais **princípios de orientação a objetos (POO)** e **padrões de projeto**. Aqui, o uso de **herança**, **sobrescrita (override)**, **construtores protegidos**, **polimorfismo** e **Template Method** é central, além da aplicação dos padrões **Facade** e de **camadas**.
 
 ---
 
-## 🏗️ Arquitetura e Organização
+## ðŸ—ï¸ Arquitetura e Organização
 
 ```
 PrimoHeranca/
@@ -21,7 +21,7 @@ PrimoHeranca/
 
 ---
 
-## ⚙️ Princípios de Orientação a Objetos Aplicados
+## âš™ï¸ Princípios de Orientação a Objetos Aplicados
 
 ### 1. **Herança e Abstração Avançada**
 A classe abstrata `absPropriedades` define propriedades e construtores protegidos, permitindo que apenas classes derivadas possam inicializá-la. O método `Executar()` é virtual, permitindo especialização nas subclasses.
@@ -82,7 +82,7 @@ Cada classe tem uma responsabilidade única e interage apenas pelo necessário, 
 
 ---
 
-## 🧩 Padrões de Projeto Utilizados
+## ðŸ§© Padrões de Projeto Utilizados
 
 ### **Template Method (Método Template)**
 O método `Executar()` é definido na classe base e sobrescrito nas subclasses, padronizando o fluxo e permitindo especialização.
@@ -108,7 +108,7 @@ Separação clara entre interface (Form1) e lógica de negócio (modelo), permit
 
 ---
 
-## 🔄 Fluxo de Execução Detalhado
+## ðŸ”„ Fluxo de Execução Detalhado
 
 1. **Entrada do Usuário**: O usuário digita um número e clica em "Verificar".
 2. **Fachada/Controle**: O formulário instancia `Controle`, que herda de `absPropriedades` e executa o fluxo.
@@ -118,13 +118,13 @@ Separação clara entre interface (Form1) e lógica de negócio (modelo), permit
 
 ---
 
-## 🧠 Algoritmo de Verificação de Primo
+## ðŸ§  Algoritmo de Verificação de Primo
 
 O algoritmo em `Primo` verifica divisibilidade de 2 até metade do número, otimizando para pular pares após 2. O resultado é atribuído à propriedade `Mensagem`.
 
 ---
 
-## 🛠️ Extensibilidade e Boas Práticas
+## ðŸ› ï¸ Extensibilidade e Boas Práticas
 
 - Novas operações podem ser criadas herdando de `absPropriedades` e sobrescrevendo `Executar()`.
 - O fluxo automático via construtores e Template Method garante objetos sempre prontos e padronizados.
@@ -132,14 +132,14 @@ O algoritmo em `Primo` verifica divisibilidade de 2 até metade do número, otim
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## ðŸš€ Tecnologias Utilizadas
 - **.NET 10**
 - **C#**
 - **Windows Forms**
 
 ---
 
-## 📚 Resumo dos Princípios e Padrões
+## ðŸ“š Resumo dos Princípios e Padrões
 | Princípio/Padrão         | Aplicação no Projeto PrimoHeranca |
 |--------------------------|-----------------------------------|
 | **Herança/Abstração**    | Classe base abstrata, construtores protegidos |
@@ -151,5 +151,6 @@ O algoritmo em `Primo` verifica divisibilidade de 2 até metade do número, otim
 
 ---
 
-## 👨‍💻 Autor
+## ðŸ‘¨â€ðŸ’» Autor
 Desenvolvido como material didático para a disciplina de **Programação Orientada a Objetos em C#** - **DS23 Manhã - 1º Semestre 2026**
+

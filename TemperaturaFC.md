@@ -1,12 +1,12 @@
-# 🌡️ TemperaturaFC - Projeto Windows Forms (.NET 10)
+﻿# Projeto TemperaturaFC - Conversor de Temperaturas
 
-## 📋 Descrição Detalhada do Projeto
+## Descrição Detalhada do Projeto
 
-O projeto **TemperaturaFC** converte temperaturas entre Fahrenheit e Celsius, utilizando **C# .NET 10** e Windows Forms. O foco está na aplicação avançada de **polimorfismo de métodos e objetos**, princípios **SOLID** e padrões de projeto como **Template Method**, **Facade** e **camadas**.
+O projeto **TemperaturaFC** realiza a conversão de temperaturas entre Fahrenheit e Celsius, utilizando **C# .NET 10** e Windows Forms. O foco está na aplicação avançada de **polimorfismo de métodos e objetos**, princípios **SOLID** e padrões de projeto como **Template Method**, **Facade** e **camadas**.
 
 ---
 
-## 🏗️ Arquitetura e Organização
+## Arquitetura e Organização
 
 ```
 TemperaturaFC/
@@ -22,25 +22,25 @@ TemperaturaFC/
 
 ---
 
-## ⚙️ Polimorfismo de Métodos e Objetos
+## Polimorfismo de Métodos e Objetos
 
-### 1. **Polimorfismo de Métodos (Override)**
+### 1. Polimorfismo de Métodos (Override)
 O método abstrato `Executar()` é sobrescrito (`override`) em cada subclasse, permitindo que cada uma implemente seu comportamento específico.
 
 **Exemplo:**
 ```csharp
 public abstract class absPropriedades : intMetodos {
-	public abstract void Executar();
+    public abstract void Executar();
 }
 public class Validacao : absPropriedades {
-	public override void Executar() { ... }
+    public override void Executar() { ... }
 }
 public class Conversao : absPropriedades {
-	public override void Executar() { ... }
+    public override void Executar() { ... }
 }
 ```
 
-### 2. **Polimorfismo de Objetos**
+### 2. Polimorfismo de Objetos
 O projeto utiliza referências do tipo da classe base (`absPropriedades`) para manipular objetos de diferentes subclasses, permitindo flexibilidade e extensibilidade.
 
 **Exemplo:**
@@ -52,7 +52,7 @@ Isso permite que métodos e fluxos operem sobre diferentes tipos de objetos de f
 
 ---
 
-## 🧩 Padrões de Projeto Utilizados
+## Padrões de Projeto Utilizados
 
 ### **Template Method**
 O método `Executar()` define o esqueleto do algoritmo, sendo especializado nas subclasses. O construtor das classes base já chama `Executar()`, garantindo inicialização automática.
@@ -65,7 +65,7 @@ Separação clara entre interface (Form1) e lógica de negócio (modelo), facili
 
 ---
 
-## 🏛️ Princípios SOLID Aplicados
+## Princípios SOLID Aplicados
 
 ### **S - Single Responsibility Principle (SRP)**
 Cada classe tem uma responsabilidade única: `Validacao` valida, `Conversao` converte, `Controle` orquestra.
@@ -84,7 +84,7 @@ O código depende de abstrações (`absPropriedades`, `intMetodos`), não de imp
 
 ---
 
-## 🔄 Fluxo de Execução Detalhado
+## Fluxo de Execução Detalhado
 
 1. **Entrada do Usuário**: O usuário informa a temperatura e seleciona o tipo de conversão.
 2. **Fachada/Controle**: O formulário instancia `Controle`, que herda de `absPropriedades` e executa o fluxo.
@@ -94,7 +94,7 @@ O código depende de abstrações (`absPropriedades`, `intMetodos`), não de imp
 
 ---
 
-## 🛠️ Extensibilidade e Boas Práticas
+## Extensibilidade e Boas Práticas
 
 - Novas conversões podem ser implementadas criando novas subclasses de `absPropriedades`.
 - O uso de polimorfismo permite adicionar funcionalidades sem alterar o fluxo principal.
@@ -102,14 +102,14 @@ O código depende de abstrações (`absPropriedades`, `intMetodos`), não de imp
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - **.NET 10**
 - **C#**
 - **Windows Forms**
 
 ---
 
-## 📚 Resumo dos Princípios e Padrões
+## Resumo dos Princípios e Padrões
 | Tema/Padrão              | Aplicação no Projeto TemperaturaFC |
 |--------------------------|------------------------------------|
 | **Polimorfismo Métodos** | Executar() sobrescrito nas subclasses |
@@ -125,5 +125,6 @@ O código depende de abstrações (`absPropriedades`, `intMetodos`), não de imp
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 Desenvolvido como material didático para a disciplina de **Programação Orientada a Objetos em C#** - **DS23 Manhã - 1º Semestre 2026**
+

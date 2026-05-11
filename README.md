@@ -1,24 +1,25 @@
-﻿# 📚 Projetos e Documentação
+# Documentação dos Projetos
 
-Este repositório contém projetos didáticos de Programação Orientada a Objetos em C# (.NET), cada um com sua documentação detalhada. Abaixo, links para cada projeto e um breve resumo:
+Este repositório contém diversos projetos de estudo de Programação Orientada a Objetos em C# com Windows Forms. Abaixo estão os links para as documentações detalhadas de cada projeto, com um breve resumo de seus objetivos e conceitos abordados:
 
 ---
 
 - [Calculadora.md](Calculadora.md):
-	- **Resumo:** Calculadora Windows Forms em C# .NET 8, demonstrando responsabilidade única, encapsulamento, propriedades, construtores e fluxo MVC simplificado.
+  > Explica a estrutura e funcionamento de uma calculadora básica, destacando o uso de POO, responsabilidade única, encapsulamento, construtores e separação de camadas (MVC simplificado).
 
 - [Primo.md](Primo.md):
-	- **Resumo:** Projeto de verificação de números primos em C# .NET 10, com foco em herança, abstração, polimorfismo, baixo acoplamento, Template Method, Facade e separação de camadas.
+  > Detalha o projeto de verificação de números primos, com foco em orientação a objetos, responsabilidade única, encapsulamento, construtores e aplicação do padrão MVC.
 
 - [PrimoHeranca.md](PrimoHeranca.md):
-	- **Resumo:** Evolução do projeto de números primos, aprofundando herança, sobrescrita (override), construtores protegidos, polimorfismo, Template Method, Facade e arquitetura em camadas.
+  > Apresenta a evolução do projeto de números primos utilizando herança e abstração, além de destacar o padrão Facade e a aplicação dos princípios SOLID.
 
 - [TemperaturaFC.md](TemperaturaFC.md):
-	- **Resumo:** Conversor de temperaturas Fahrenheit/Celsius em C# .NET 10, com polimorfismo de métodos e objetos, aplicação dos princípios SOLID, Template Method, Facade e camadas.
+  > Documenta o projeto de conversão de temperaturas, com ênfase em herança, abstração, interface, polimorfismo (com explicação detalhada), padrão Facade e princípios SOLID.
 
 - [Multiplos.md](Multiplos.md):
-- **Resumo:** Aplicação Windows Forms com múltiplos formulários para primo, fatorial e triângulos, com foco em navegação entre telas, reaproveitamento da camada de modelo e diferenças entre formulários modais (`ShowDialog`) e não modais (`Show`).
+  > Demonstra a estruturação de aplicações com múltiplos formulários, gerenciamento de janelas modais e organização via MenuStrip.
 
 ---
 
-Cada documento detalha a arquitetura, princípios de orientação a objetos, padrões de projeto e exemplos práticos do respectivo projeto.
+Cada documento aprofunda os conceitos de POO e padrões de projeto aplicados, servindo como referência para estudo e revisão.
+

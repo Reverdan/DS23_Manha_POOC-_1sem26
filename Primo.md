@@ -1,12 +1,12 @@
-# 🧮 Numero Primo - Projeto Windows Forms (.NET 10)
+﻿# ðŸ§® Numero Primo - Projeto Windows Forms (.NET 10)
 
-## 📋 Descrição Detalhada do Projeto
+## ðŸ“‹ Descrição Detalhada do Projeto
 
 O projeto **NumeroPrimo** é uma aplicação Windows Forms desenvolvida em **C# .NET 10**, cujo objetivo é verificar se um número informado pelo usuário é primo. O projeto foi estruturado para demonstrar, de forma didática e prática, os principais **princípios de orientação a objetos (POO)** e a aplicação de **padrões de projeto** além dos conceitos já detalhados em Calculadora.md (como responsabilidade única, encapsulamento e construtores).
 
 ---
 
-## 🏗️ Arquitetura e Organização
+## ðŸ—ï¸ Arquitetura e Organização
 
 A solução está dividida em camadas e classes especializadas:
 
@@ -23,7 +23,7 @@ NumeroPrimo/
 
 ---
 
-## ⚙️ Princípios de Orientação a Objetos Aplicados
+## âš™ï¸ Princípios de Orientação a Objetos Aplicados
 
 ### 1. **Herança e Abstração**
 A herança é um dos pilares da POO e permite criar uma hierarquia de classes, promovendo reuso e especialização. No projeto, a classe abstrata `absPropriedades` define propriedades comuns (`Numero`, `Num`, `Mensagem`) e serve como base para todas as classes de domínio. Isso garante que todas as classes compartilhem uma interface comum e reduz duplicidade de código.
@@ -102,10 +102,10 @@ Baixo acoplamento significa que as classes dependem minimamente umas das outras.
 
 ---
 
-## 🧩 Padrões de Projeto Utilizados
+## ðŸ§© Padrões de Projeto Utilizados
 
 ### **Padrão Template Method (Método Template)**
-O Template Method define o esqueleto de um algoritmo em uma operação, delegando algumas etapas para subclasses. No projeto, o construtor de `Controle` define o fluxo principal (validar → verificar primo), enquanto as etapas específicas são implementadas em métodos privados das classes envolvidas.
+O Template Method define o esqueleto de um algoritmo em uma operação, delegando algumas etapas para subclasses. No projeto, o construtor de `Controle` define o fluxo principal (validar â†’ verificar primo), enquanto as etapas específicas são implementadas em métodos privados das classes envolvidas.
 
 **Exemplo:**
 ```csharp
@@ -165,7 +165,7 @@ O formulário não precisa conhecer detalhes de validação ou cálculo, apenas 
 
 ---
 
-## 🔄 Fluxo de Execução
+## ðŸ”„ Fluxo de Execução
 
 1. **Entrada do Usuário**: O usuário digita um número no campo de texto e clica em "Verificar Primo".
 2. **Controle**: O evento de clique instancia a classe `Controle`, que inicia o fluxo de validação e verificação.
@@ -175,14 +175,14 @@ O formulário não precisa conhecer detalhes de validação ou cálculo, apenas 
 
 ---
 
-## 🧠 Algoritmo de Verificação de Primo
+## ðŸ§  Algoritmo de Verificação de Primo
 
 - O algoritmo implementado na classe `Primo` verifica se o número é divisível por algum valor entre 2 e metade do número informado, otimizando o processo para evitar verificações desnecessárias.
 - O laço é otimizado para pular números pares após o 2, tornando a verificação mais eficiente.
 
 ---
 
-## 🛠️ Extensibilidade e Boas Práticas
+## ðŸ› ï¸ Extensibilidade e Boas Práticas
 
 - O uso de uma classe base abstrata permite fácil extensão para outros tipos de validação ou operações matemáticas.
 - O padrão de fluxo automático via construtores garante que objetos estejam sempre em estado válido após a criação.
@@ -190,14 +190,14 @@ O formulário não precisa conhecer detalhes de validação ou cálculo, apenas 
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## ðŸš€ Tecnologias Utilizadas
 - **.NET 10**
 - **C#**
 - **Windows Forms**
 
 ---
 
-## 📚 Resumo dos Princípios e Padrões (não abordados em Calculadora.md)
+## ðŸ“š Resumo dos Princípios e Padrões (não abordados em Calculadora.md)
 | Princípio/Padrão         | Aplicação no Projeto NumeroPrimo |
 |--------------------------|----------------------------------|
 | **Herança/Abstração**    | Classe base abstrata para propriedades |
@@ -209,5 +209,6 @@ O formulário não precisa conhecer detalhes de validação ou cálculo, apenas 
 
 ---
 
-## 👨‍💻 Autor
+## ðŸ‘¨â€ðŸ’» Autor
 Desenvolvido como material didático para a disciplina de **Programação Orientada a Objetos em C#** - **DS23 Manhã - 1º Semestre 2026**
+
